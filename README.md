@@ -1,11 +1,16 @@
-# Web-Scraping-Walmart-Using-BeautifulSoup
+# Web Scraping with BeautifulSoup
 
-* In this you can learn extracting data from websites using BeautifulSoup from bs4 python package.
-* Packages required to run the jupyter notebook  cells are mentioned in requirements.txt
-* Web-Scraping-Using-BeautifulSoup.ipynb has the code
+*This project demonstrates how to extract data from websites using BeautifulSoup, a Python package from the bs4 library. The example provided focuses on scraping data from Walmart.
 
-# Knowledge Resouces:
-* BeautifulSoup documentation >>https://www.crummy.com/software/BeautifulSoup/bs4/doc/
-* Requests documentation >> http://docs.python-requests.org/en/master/
-* scrapy framework >> https://scrapy.org/
+#Getting Started
+*To run the Jupyter Notebook, ensure you have the required packages installed. All dependencies are listed in requirements.txt.
 
+#Project Contents
+
+*Web-Scraping-Using-BeautifulSoup.ipynb: This notebook contains the code for scraping data from Walmart.
+
+#Useful Resources
+
+*BeautifulSoup Documentation
+*Requests Documentation
+*Scrapy Framework

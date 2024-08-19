@@ -11,6 +11,6 @@ Web-Scraping-Using-BeautifulSoup.ipynb: This notebook contains the code for scra
 
 # Useful Resources
 
-BeautifulSoup Documentation
-Requests Documentation
-Scrapy Framework
+BeautifulSoup Documentation: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+Requests Documentation: http://docs.python-requests.org/en/master/
+Scrapy Framework: https://scrapy.org/
